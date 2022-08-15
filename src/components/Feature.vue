@@ -15,7 +15,7 @@ const features = [
     {
         icon: LibraryIcon,
         color: 'rgb(10, 190, 31)',
-        description: "Run by active community members & participates in on-chain governance"
+        description: "Active in the community & participation in on-chain governance"
     },
 ]
 
