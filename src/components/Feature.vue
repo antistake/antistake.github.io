@@ -1,6 +1,5 @@
 <script setup>
-import { BeakerIcon, CurrencyDollarIcon, LibraryIcon, ServerIcon } from '@heroicons/vue/solid';
-import KusamaIcon from "../assets/kusama.svg"
+import { CurrencyDollarIcon, LibraryIcon, ServerIcon } from '@heroicons/vue/solid';
 
 const features = [
     {

@@ -1,7 +1,7 @@
 <script setup>
 const kusama = {
     img: {
-        src: './src/assets/kusama.svg',
+        src: 'kusama.svg',
         alt: 'Kusama logo'
     },
     keys: ['Fa73LcKf9BMHUp9k6wv7LiHu2jd65UhWPn7JSRUPpt2XgAQ']
@@ -9,7 +9,7 @@ const kusama = {
 
 const polkadot = {
     img: {
-        src: './src/assets/polkadot.svg',
+        src: 'polkadot.svg',
         alt: 'Polkadot logo'
     },
     keys: ['Fa73LcKf9BMHUp9k6wv7LiHu2jd65UhWPn7JSRUPpt2XgAQ']
