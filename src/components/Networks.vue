@@ -4,7 +4,7 @@ const kusama = {
         src: 'kusama.svg',
         alt: 'Kusama logo'
     },
-    keys: ['Fa73LcKf9BMHUp9k6wv7LiHu2jd65UhWPn7JSRUPpt2XgAQ']
+    keys: ['DwQx7moAfebiPXDq1kc3oTvByyBWhjFoyXY6fu5xvucTEB6']
 }
 
 const polkadot = {
@@ -12,7 +12,7 @@ const polkadot = {
         src: 'polkadot.svg',
         alt: 'Polkadot logo'
     },
-    keys: ['Fa73LcKf9BMHUp9k6wv7LiHu2jd65UhWPn7JSRUPpt2XgAQ']
+    keys: ['DwQx7moAfebiPXDq1kc3oTvByyBWhjFoyXY6fu5xvucTEB6']
 }
 
 function copyKey(event) {

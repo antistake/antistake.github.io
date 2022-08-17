@@ -17,9 +17,9 @@ export default {
 <template>
     <footer>
         Join the conversation<br>
-        <a href="https://github.com/primestaking">Github</a>
+        <a href="https://github.com/antistake">Github</a>
         <a href="https://discord.gg/tMMGgRuwA8">Discord</a>
-        <a href="mailto:primestaking.info@gmail.com">Email</a>
+        <a href="mailto:antistakestakeclub@gmail.com">Email</a>
     </footer>
 </template>
 
