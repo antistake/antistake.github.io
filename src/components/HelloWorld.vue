@@ -22,9 +22,8 @@ const count = ref(0)
 </template>
 
 <style scoped>
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 h1 {
-  font-family: Pacifico;
+  font-family: Lobster;
 }
 </style>

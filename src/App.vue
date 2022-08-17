@@ -14,7 +14,7 @@ import Footer from './components/Footer.vue';
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div> -->
-  <HelloWorld msg="Prime Staking" />
+  <HelloWorld msg="Anti Stake Stake Club" />
   <Footer />
 
 </template>
